@@ -1,12 +1,18 @@
 ### Hi there! I am Marden Neubert 👋
 
-Husband, father of two
+#### Who I am 🤝
 
-Former CTO of PagSeguro
+- 💞 Husband 
+- 👦🧒 Father of two
+- 👨‍🎓 Lifelong learner
+- Former CTO of [PagSeguro](https://pagseguro.com.br)
 
-Lifelong learner
+#### What I am currently learning 🌱
 
-- 🌱 I’m currently learning Python, Data Science and 
+- 🐍 Python 
+- 👨‍🔬 Data Science
+- 🕴️ Business analytics 
+- 💰 General management and finance 
 
 <!--
 **mardenneubert/mardenneubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
