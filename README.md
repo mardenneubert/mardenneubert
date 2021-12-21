@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I am Marden Neubert 👋
+
+Husband, father of two
+Former CTO of PagSeguro
+Lifelong learner
+
+- 🌱 I’m currently learning Python, Data Science and 
 
 <!--
 **mardenneubert/mardenneubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
