@@ -1,7 +1,9 @@
 ### Hi there! I am Marden Neubert 👋
 
 Husband, father of two
+
 Former CTO of PagSeguro
+
 Lifelong learner
 
 - 🌱 I’m currently learning Python, Data Science and 
