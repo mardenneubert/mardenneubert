@@ -5,7 +5,7 @@
 - 💞 Husband 
 - 👦🧒 Father of two
 - 👨‍🎓 Lifelong learner
-- Former CTO of [PagSeguro](https://pagseguro.com.br)
+- Tech advisor and former CTO of [PagSeguro](https://pagseguro.com.br)
 
 #### What I am currently learning 🌱
 
